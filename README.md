@@ -1,4 +1,4 @@
-## :satellite: Zentalk Android :satellite:
+## :satellite: Zentalk Mobile -V Android :satellite:
 
 
 ##### This project is under active development, there may be breaking changes.
