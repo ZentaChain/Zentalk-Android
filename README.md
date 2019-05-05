@@ -3,8 +3,6 @@
 
 ##### This project is under active development, there may be breaking changes.
 
-##### Zentalk Android will be not publish as opensource.
-
 ##### Timestamp development:
 
 ##### Zentalk offline communication works 20 meters. 15.04.2019 ✔️
