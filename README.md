@@ -9,7 +9,7 @@
 
 ##### Zentalk offline communication works 50 meters. 26.04.2019 ✔️
 
-##### Zentalk offline communication works 100 meters. 26.04.2019 ✔️
+##### Zentalk offline communication works 100 meters. 09.05.2019 ✔️
 
 ##### No middle men ✔️
 
