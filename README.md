@@ -9,6 +9,10 @@
 
 ##### Zentalk offline communication works 50 meters. 26.04.2019 ✔️
 
+##### Zentalk offline communication works 100 meters. 26.04.2019 ✔️
+
+##### No middle men ✔️
+
 ##### Tor protocol is supported 26.04.2019 ✔️
 
 ##### *Copyright all rights reserved Zentachain.io
