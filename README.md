@@ -13,6 +13,8 @@
 
 ##### No middle men ✔️
 
-##### Tor protocol is supported 26.04.2019 ✔️
+##### Tor-Protocol is supported 26.04.2019 ✔️
+
+![onion_zentalk_cyber](https://user-images.githubusercontent.com/40530024/57589057-93c2da00-751e-11e9-8a47-05e8a7c8319e.png)
 
 ##### *Copyright all rights reserved Zentachain.io
