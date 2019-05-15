@@ -13,7 +13,9 @@
 
 ##### No middle men ✔️
 
-##### Tor-Protocol is supported 26.04.2019 ✔️
+##### Panic button it can destroy account and all messages ✔️
+
+##### Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
 
 ![onion_zentalk_cyber](https://user-images.githubusercontent.com/40530024/57589057-93c2da00-751e-11e9-8a47-05e8a7c8319e.png)
 
