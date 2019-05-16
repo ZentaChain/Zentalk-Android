@@ -10,11 +10,11 @@
 
 ##### Zentalk offline communication works 100 meters. 09.05.2019 ✔️
 
-##### No middle men ✔️
+##### Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
 
 ##### Panic button it can destroy account and all messages ✔️
 
-##### Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
+##### No middle men ✔️
 
 ```
 
