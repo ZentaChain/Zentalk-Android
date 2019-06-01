@@ -14,6 +14,8 @@
 
 ##### Panic button it can destroy account and all messages ✔️
 
+##### No-server ✔️
+
 ##### No middle men ✔️
 
 ```
