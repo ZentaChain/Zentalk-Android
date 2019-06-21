@@ -12,7 +12,7 @@
 
 ##### Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
 
-##### Panic button it can destroy account and all messages ✔️
+##### Panic button it destroys your account and all of messages ✔️
 
 ##### No-server ✔️
 
@@ -20,9 +20,9 @@
 
 ##### No middle men ✔️
 
-##### No screenshots ✔️
+##### Screenshots are blocked ✔️
 
-##### Mobile Encrypted - Losing password you can not recover your account back ✔️
+##### Mobile Encrypted - When you forget your password you can not recover your account ✔️
 
 ```
 ##### "Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a open-opensource"(We have run a Team - voting)
