@@ -14,15 +14,18 @@
 
 ##### Panic button it destroys your account and all of messages ✔️
 
+##### Mobile Encrypted - When you forget your password you can not recover your account ✔️
+
 ##### No-server ✔️
 
 ##### Non-Backup ✔️
 
-##### No middle men ✔️
+##### Anti middle-men attack ✔️
 
 ##### Screenshots are blocked ✔️
 
-##### Mobile Encrypted - When you forget your password you can not recover your account ✔️
+##### User contact-list is encrypted and stored on own device ✔️ 22.06.2019
+
 
 ```
 ##### "Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a open-opensource"(We have run a Team - voting)
