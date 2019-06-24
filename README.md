@@ -3,32 +3,32 @@
 ##### This project is under active development, there may be breaking changes.
 
 ##### Timestamp development:
-```
-##### Zentalk offline communication works 20 meters. 15.04.2019 ✔️
 
-##### Zentalk offline communication works 50 meters. 26.04.2019 ✔️
+- [x] Zentalk offline communication works 20 meters. 15.04.2019 ✔️
 
-##### Zentalk offline communication works 100 meters. 09.05.2019 ✔️
+- [x] Zentalk offline communication works 50 meters. 26.04.2019 ✔️
 
-##### Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
+- [x] Zentalk offline communication works 100 meters. 09.05.2019 ✔️
 
-##### Panic button it destroys your account and all of messages ✔️
+- [x] Tor-Protocol is supported turn on and off easy 15.05.2019 ✔️
 
-##### Mobile Encrypted - When you forget your password you can not recover your account ✔️
+- [x] Panic button it destroys your account and all of messages ✔️
 
-##### No-server ✔️
+- [x] Mobile Encrypted - When you forget your password you can not recover your account ✔️
 
-##### Non-Backup ✔️
+- [x] No-server ✔️
 
-##### Anti middle-men attack ✔️
+- [x] Non-Backup ✔️
 
-##### Screenshots are blocked ✔️
+- [x] Anti middle-men attack ✔️
 
-##### Hash function BLAKE2b ✔️
+- [x] Screenshots are blocked ✔️
 
-##### User contact-list is encrypted and stored on own device ✔️ 22.06.2019
+- [x] Hash function BLAKE2b ✔️
 
+- [x] User contact-list is encrypted and stored on own device ✔️ 22.06.2019
 
-```
+-------------
+
 ##### "Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a open-opensource"(We have run a Team - voting)
 ##### *Copyright all rights reserved Zentachain.io
