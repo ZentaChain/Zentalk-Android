@@ -24,7 +24,7 @@
 
 - [x] Screenshots are blocked ✔️
 
-- [x] Hash function BLAKE2b ✔️
+- [x] Hash function BLAKE2 ✔️
 
 - [x] User contact-list is encrypted and stored on own device ✔️ 22.06.2019
 
