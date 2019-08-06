@@ -28,6 +28,8 @@
 
 - [x] User contact-list is encrypted and stored on own device 22.06.2019
 
+- [x] Zentalk-Gateway 07.08.2019
+
 -------------
 
 ##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource"(We have run a Team - voting)*
