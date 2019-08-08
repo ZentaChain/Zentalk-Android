@@ -30,6 +30,8 @@
 
 - [x] Zentalk-Gateway 07.08.2019
 
+- [ ] Zentalk-ZentWan 08.08.2019
+
 -------------
 
 ##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource"(We have run a Team - voting)*
