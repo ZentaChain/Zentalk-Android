@@ -30,9 +30,9 @@
 
 - [x] Zentalk-Gateway 07.08.2019
 
-- [ ] ZentaWan 
+- [ ] Zentawan 
 
-- [ ] Zentanode 
+- [ ] Zentanodes 
 
 -------------
 
