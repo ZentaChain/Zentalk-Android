@@ -1,5 +1,5 @@
 ### Zentalk Mobile Android
-![onion_zentalk_cyber](https://user-images.githubusercontent.com/40530024/57589057-93c2da00-751e-11e9-8a47-05e8a7c8319e.png)
+![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 ##### This project is under active development, there may be breaking changes.
 
 ##### Timestamp development:
