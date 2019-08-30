@@ -30,11 +30,14 @@
 
 - [x] Zentalk-Gateway 07.08.2019
 
-- [ ] Zentawan 
-
-- [ ] Zentanodes 
-
 - [x] Adding  contact at distance 25.08.2019
+
+- [ ] ZentaMWAN 
+
+- [ ] Zentanode
+
+- [ ] Adding Images and files
+
 
 -------------
 
