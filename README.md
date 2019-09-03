@@ -38,6 +38,14 @@
 
 - [ ] Adding Images and files
 
+- [ ] Start with only a choosen Nickname
+
+- [ ] Dark-theme(Mod)
+
+- [ ] White-theme(Mod)
+
+- [ ] Group
+
 
 -------------
 
