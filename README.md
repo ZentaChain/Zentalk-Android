@@ -48,6 +48,8 @@
 
 - [ ] Stress Testing & MWAN Bandwidth
 
+- [ ] Zentamesh-network
+
 
 -------------
 
