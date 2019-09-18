@@ -56,4 +56,6 @@
 -------------
 
 ##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource"(We have run a Team - voting)*
-##### *Copyright all rights reserved Zentachain.io*
+
+[This project is under active development, there may be breaking changes.]
+[Copyright all rights reserved Zentachain.io]
