@@ -42,6 +42,8 @@
 
 - [ ] Dark-theme(Mod)
 
+- [ ] Zenta-theme(BLACK)
+
 - [ ] White-theme(Mod)
 
 - [ ] Group
