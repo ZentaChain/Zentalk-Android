@@ -54,7 +54,11 @@
 
 - [ ] Qr-Code generator user Scan
 
-- [ ] Diffie-Hellman
+- [ ] Diffie-Hellman Key
+
+- [ ] Bitcoin & Ethereum
+
+- [ ] File Sharing Tor-Network
 
 
 
