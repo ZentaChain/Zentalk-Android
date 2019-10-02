@@ -56,11 +56,11 @@
 
 - [ ] Diffie-Hellman Key
 
-- [ ] Bitcoin & Ethereum (Later)
+- [ ] Bitcoin & Ethereum
 
 - [ ] Bitcoin without informatsion and Tor-Network
 
-- [ ] Send Bitcoin over thwe Zentameshnet 
+- [ ] Send Bitcoin over the Zentamesh network 
 
 - [ ] Send Bitcoin offline over SMS
 
