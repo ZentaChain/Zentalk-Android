@@ -60,11 +60,15 @@
 
 - [ ] Bitcoin without informatsion and Tor-Network
 
-- [ ] Send Bitcoin over the Zentamesh network 
+- [ ] Send Bitcoin over the Zentamesh network(Offline)
 
 - [ ] Send Bitcoin offline over SMS
 
 - [ ] File Sharing Tor-Network
+
+- [ ] Scan Zentanode Monile
+
+- [ ] AES-256 14 Rounds
 
 
 
