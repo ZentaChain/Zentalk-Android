@@ -66,7 +66,7 @@
 
 - [ ] File Sharing Tor-Network
 
-- [ ] Scan Zentanode Monile
+- [ ] Scan Zentanode Mobile
 
 - [ ] AES-256 14 Rounds
 
