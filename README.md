@@ -30,7 +30,9 @@
 
 - [x] Zentalk-Gateway 07.08.2019
 
-- [x] Adding  contact at distance 25.08.2019
+- [x] Adding Contact at area distance 25.08.2019
+
+- [x] Remove Message 07.10.2019
 
 - [ ] ZentaMWAN 
 
@@ -69,8 +71,6 @@
 - [ ] Scan Zentanode Mobile
 
 - [ ] AES-256 14 Rounds
-
-- [ ] Remove Message
 
 
 
