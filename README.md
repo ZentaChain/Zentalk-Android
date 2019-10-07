@@ -70,6 +70,8 @@
 
 - [ ] AES-256 14 Rounds
 
+- [ ] Remove Message
+
 
 
 -------------
