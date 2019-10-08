@@ -54,9 +54,9 @@
 
 - [ ] Zentamesh-network
 
-- [ ] Qr-Code generator user Scan
+- [ ] QR-Code generate and user Scan
 
-- [ ] Diffie-Hellman Key
+- [ ] Diffie-Hellman Key Exchange
 
 - [ ] Bitcoin & Ethereum
 
@@ -68,9 +68,11 @@
 
 - [ ] File Sharing Tor-Network
 
-- [ ] Scan Zentanode Mobile
+- [ ] Scanning near by Zentanode
 
 - [ ] AES-256 14 Rounds
+
+- [ ] Quantum Computer Safe
 
 
 
