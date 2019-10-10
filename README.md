@@ -34,6 +34,8 @@
 
 - [x] Remove Message 07.10.2019
 
+- [x] Save images with warning
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
