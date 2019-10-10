@@ -20,7 +20,7 @@
 
 - [x] Non-Backup
 
-- [x] Anti middle-men attack
+- [x] Anti-middle-men attack
 
 - [x] Screenshots are blocked
 
@@ -40,7 +40,7 @@
 
 - [ ] Adding Images and files
 
-- [ ] Start with only a choosen Nickname
+- [ ] Start with only a chosen with a nickname
 
 - [ ] Dark-theme(Mod)
 
@@ -60,17 +60,17 @@
 
 - [ ] Bitcoin & Ethereum
 
-- [ ] Bitcoin without informatsion and Tor-Network
+- [ ] Bitcoin without information and Tor-Network
 
 - [ ] Send Bitcoin over the Zentamesh network(Offline)
 
 - [ ] Send Bitcoin offline over SMS
 
-- [ ] File Sharing Tor-Network
+- [ ] File-Sharing Tor-Network
 
-- [ ] Scanning near by Zentanode
+- [ ] Scanning nearby Zentanode
 
-- [ ] AES-256 14 Rounds
+- [ ] AES-256 (14-Rounds)
 
 - [ ] Quantum Computer Safe
 
