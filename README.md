@@ -32,9 +32,11 @@
 
 - [x] Adding Contact at area distance 25.08.2019
 
-- [x] Remove Message 07.10.2019
+- [x] Remove Message(Timer) 07.10.2019
 
 - [x] Save images with warning
+
+- [x] Anti-SimSwap
 
 - [ ] ZentaMWAN 
 
