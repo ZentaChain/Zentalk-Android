@@ -76,6 +76,8 @@
 
 - [ ] AES-256 (14-Rounds)
 
+- [ ] Hybrid Encryption
+
 - [ ] Quantum Computer Safe
 
 
