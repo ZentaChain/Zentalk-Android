@@ -68,8 +68,6 @@
 
 - [ ] Send Bitcoin over the Zentamesh network(Offline)
 
-- [ ] Send Bitcoin offline over SMS
-
 - [ ] File-Sharing Tor-Network
 
 - [ ] Scanning nearby Zentanode
