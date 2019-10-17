@@ -70,11 +70,11 @@
 
 - [ ] Send Bitcoin over the Zentamesh network(Offline)
 
-- [ ] File-Sharing Tor-Network
+- [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Scanning nearby Zentanode
 
-- [x] Key Size AES-256 (14-Rounds)
+- [x] Key Size AES-256 Bit (14-Rounds)
 
 - [x] Block Size 128 Bit
 
