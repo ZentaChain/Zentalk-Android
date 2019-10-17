@@ -38,7 +38,7 @@
 
 - [x] Anti-SimSwap
 
-- [x] Closing Timer 17.10.2019
+- [x] Auto logout Timer 17.10.2019
 
 - [ ] ZentaMWAN 
 
