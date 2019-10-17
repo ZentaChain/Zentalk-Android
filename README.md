@@ -72,7 +72,9 @@
 
 - [ ] Scanning nearby Zentanode
 
-- [ ] AES-256 (14-Rounds)
+- [x] Key Size AES-256 (14-Rounds)
+
+- [x] Block Size 128 Bit
 
 - [ ] Hybrid Encryption
 
