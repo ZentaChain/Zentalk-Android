@@ -38,6 +38,8 @@
 
 - [x] Anti-SimSwap
 
+- [x] Closing Timer 17.10.2019
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
