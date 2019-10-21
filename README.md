@@ -32,13 +32,15 @@
 
 - [x] Adding Contact at area distance 25.08.2019
 
-- [x] Remove Message(Timer) 07.10.2019
+- [x] Remove Message(Set-Timer) 07.10.2019
 
 - [x] Save images with warning
 
 - [x] Anti-SimSwap
 
 - [x] Auto logout Timer 17.10.2019
+
+- [x] Quantum Computer Safe
 
 - [ ] ZentaMWAN 
 
@@ -79,8 +81,6 @@
 - [x] Block Size 128 Bit
 
 - [ ] Hybrid Encryption
-
-- [ ] Quantum Computer Safe
 
 
 
