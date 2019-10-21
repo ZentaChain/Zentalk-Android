@@ -42,6 +42,10 @@
 
 - [x] Quantum Computer Safe
 
+- [x] Key Size AES-256 Bit (14-Rounds)
+
+- [x] Block Size 128 Bit
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
@@ -75,10 +79,6 @@
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Scanning nearby Zentanode
-
-- [x] Key Size AES-256 Bit (14-Rounds)
-
-- [x] Block Size 128 Bit
 
 - [ ] Hybrid Encryption
 
