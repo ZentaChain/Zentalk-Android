@@ -48,6 +48,8 @@
 
 - [x] Start with Nickname
 
+- [x] System encryption
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
@@ -79,6 +81,8 @@
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Scanning nearby Zentanode
+
+- [ ] Hashing Signature
 
 - [ ] Hybrid Encryption
 -------------
