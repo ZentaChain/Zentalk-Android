@@ -1,4 +1,4 @@
-### Zentalk Mobile Android
+### Zentalk Android (d)App
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 ##### This project is under active development, there may be breaking changes.
 
