@@ -46,7 +46,7 @@
 
 - [x] Block Size 128 Bit
 
-- [x] Start with only a chosen with a nickname
+- [x] Start with Nickname
 
 - [ ] ZentaMWAN 
 
