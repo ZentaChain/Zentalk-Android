@@ -12,7 +12,7 @@
 
 - [x] Tor-Protocol is supported turn on and off easy 15.05.2019
 
-- [x] Panic button it destroys your account
+- [x] Panic-btn
 
 - [x] Mobile Encrypted - When you forget your password you can not recover your Account
 
@@ -20,11 +20,11 @@
 
 - [x] Non-Backup
 
-- [x] Anti-middle-men attack
+- [x] Anti-middle-men
 
-- [x] Screenshots are blocked
+- [x] Blocke Screenshots
 
-- [x] Hash function BLAKE2
+- [x] Hash: BLAKE2
 
 - [x] User contact-list is encrypted and stored on own device 22.06.2019
 
@@ -46,11 +46,11 @@
 
 - [x] Block Size 128 Bit
 
-- [x] Start with Nickname
+- [x] Nickname
 
-- [x] System encryption
+- [x] System-Sncryption
 
-- [x] Google Emoji
+- [x] Google Emoji 25.10.2019
 
 - [ ] ZentaMWAN 
 
