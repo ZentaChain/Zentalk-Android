@@ -46,13 +46,13 @@
 
 - [x] Block Size 128 Bit
 
+- [x] Start with only a chosen with a nickname
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
 
 - [ ] Adding Images and files
-
-- [ ] Start with only a chosen with a nickname
 
 - [ ] Dark-theme(Mod)
 
