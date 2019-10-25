@@ -50,6 +50,8 @@
 
 - [x] System encryption
 
+- [x] Google Emoji
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
