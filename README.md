@@ -1,8 +1,8 @@
-# *Zentalk Messenger Android dApp*
-![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
-##### This project is under active development, there may be breaking changes.
+<h2 align="center">Zentalk Messenger Android dApp</h2>
 
-##### Timestamp development:
+![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
+
+#### Timestamp development:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
 
@@ -95,5 +95,6 @@
 
 ##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource"(We have run a Team - voting)*
 
-[This project is under active development, there may be breaking changes.]
-[Copyright all rights reserved Zentachain.io]
+##### This project is under active development, there may be breaking changes.
+
+<h3 align="center">Copyright all rights reserved Zentachain.io</h3>
