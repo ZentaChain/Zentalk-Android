@@ -52,6 +52,8 @@
 
 - [x] Google Emoji 25.10.2019
 
+- [ ] Sharing User Link
+
 - [ ] ZentaMWAN 
 
 - [ ] Zentanode
