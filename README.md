@@ -2,6 +2,8 @@
 
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 
+##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource.*
+
 #### Timestamp development:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
@@ -101,8 +103,6 @@
 - [ ] Turkish
 
 -------------
-
-##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource"(We have run a Team - voting)*
 
 ##### This project is under active development, there may be breaking changes.
 
