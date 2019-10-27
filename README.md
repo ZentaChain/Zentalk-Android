@@ -96,7 +96,11 @@
 
 - [ ] Calls & Videocalls
 
-- [ ] Zayin
+- [ ] Zayin Network
+
+- [ ] Blog
+
+- [ ] Private Group
 
 #### Languages:
 
