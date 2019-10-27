@@ -1,4 +1,4 @@
-<h2 align="center">Zentalk Messenger Android dApp</h2>
+<h1 align="center">Zentalk Messenger Android dApp</h1>
 
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 
@@ -48,11 +48,11 @@
 
 - [x] Nickname
 
-- [x] System-Sncryption
+- [x] System-Encryption
 
 - [x] Google Emoji 25.10.2019
 
-- [ ] Sharing User Link
+- [ ] Sharing Hashed Link Identity
 
 - [ ] ZentaMWAN 
 
@@ -97,6 +97,8 @@
 - [x] English
 
 - [x] German
+
+- [ ] Turkish
 
 -------------
 
