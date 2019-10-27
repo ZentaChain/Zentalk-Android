@@ -52,7 +52,7 @@
 
 - [x] System-Encryption
 
-- [x] Google Emoji 25.10.2019
+- [x] Google Emoji 25.10.2019 without API & RAW
 
 - [ ] Sharing Hashed Link Identity
 
