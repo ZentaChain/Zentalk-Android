@@ -96,11 +96,13 @@
 
 - [ ] Calls & Videocalls
 
-- [ ] Zayin Network
-
 - [ ] Blog
 
 - [ ] Private Group
+
+- [ ] Zajin Network
+
+- [ ] Zikaron Network
 
 #### Languages:
 
