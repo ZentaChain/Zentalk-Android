@@ -96,6 +96,8 @@
 
 - [ ] Calls & Videocalls
 
+- [ ] Zayin
+
 #### Languages:
 
 - [x] English
