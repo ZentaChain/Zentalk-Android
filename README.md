@@ -54,7 +54,7 @@
 
 - [x] Google Emoji 25.10.2019 without API & RAW
 
-- [ ] Zenta-Theme(BLACK)
+- [x] Zenta-Theme(BLACK) 28.10.2019
 
 - [ ] Sharing Hashed Link Identity
 
@@ -99,6 +99,8 @@
 - [ ] Blog
 
 - [ ] Private Group
+
+- [ ] Group
 
 - [ ] Zajin Network
 
