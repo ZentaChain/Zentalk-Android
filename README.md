@@ -16,7 +16,7 @@
 
 - [x] Panic-btn
 
-- [x] Mobile Encrypted - When you forget your password you can not recover your Account
+- [x] Password recover: No
 
 - [x] No-server
 
@@ -101,6 +101,8 @@
 - [ ] Private Group
 
 - [ ] Group
+
+- [ ] Mobile Encrypted
 
 - [ ] Stop Over Tracking by other Apps(Instagram, Facebook, Amazon,..)
 
