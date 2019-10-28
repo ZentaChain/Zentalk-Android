@@ -54,6 +54,8 @@
 
 - [x] Google Emoji 25.10.2019 without API & RAW
 
+- [ ] Zenta-Theme(BLACK)
+
 - [ ] Sharing Hashed Link Identity
 
 - [ ] ZentaMWAN 
@@ -62,11 +64,9 @@
 
 - [ ] Adding Images and files
 
-- [ ] Dark-theme(Mod)
+- [ ] Dark-Theme(Mod)
 
-- [ ] Zenta-theme(BLACK)
-
-- [ ] White-theme(Mod)
+- [ ] White-Theme(Mod)
 
 - [ ] Group
 
@@ -103,6 +103,8 @@
 - [ ] Zajin Network
 
 - [ ] Zikaron Network
+
+- [ ] Stop Over Tracking by other Apps(Instagram, Facebook, Amazon,..)
 
 #### Languages:
 
