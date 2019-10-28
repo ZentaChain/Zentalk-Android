@@ -24,7 +24,7 @@
 
 - [x] Anti-middle-men
 
-- [x] Blocke Screenshots
+- [x] Blocke Screenshot
 
 - [x] Hash: BLAKE2
 
