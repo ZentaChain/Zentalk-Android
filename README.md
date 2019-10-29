@@ -2,15 +2,9 @@
 
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 
-##### *"Zentalk Mobile will not first as a open-source project thank you for your understanding we try to make most of our products as a* *open-opensource.*
+#### *"Zentalk Mobile will not first as a full open-source project thank you for your understanding we try to make most of our products as a* *open-opensource*
 
 #### Timestamp development:
-
-- [x] Zentalk offline communication works 20 meters. 15.04.2019
-
-- [x] Zentalk offline communication works 50 meters. 26.04.2019
-
-- [x] Zentalk offline communication works 100 meters. 09.05.2019
 
 - [x] Tor-Protocol is supported turn on and off easy 15.05.2019
 
@@ -106,13 +100,31 @@
 
 - [ ] Stop Over Tracking by other Apps(Instagram, Facebook, Amazon,..)
 
+#### Offline Range: 
+
+- [x] Zentalk offline communication works 20 meters. 15.04.2019
+
+- [x] Zentalk offline communication works 50 meters. 26.04.2019
+
+- [x] Zentalk offline communication works 100 meters. 09.05.2019
+
+- [ ] Zentalk offline communication works 1000 meters
+
+#### Data transfer Online size:
+
+- [ ] 100 Mb
+
+#### Data transfer Offline size:
+
+- [ ] 15 Mb
+
 #### Networks:
+
+- [ ] Zentamesh Network
 
 - [ ] Zajin Network
 
 - [ ] Zikaron Network
-
-- [ ] Zentamesh Network
 
 #### Languages:
 
