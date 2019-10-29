@@ -12,7 +12,7 @@
 
 - [x] Password recover: No
 
-- [x] No-server
+- [x] No-Server
 
 - [x] Non-Backup
 
@@ -28,13 +28,13 @@
 
 - [x] Adding Contact at area distance 25.08.2019
 
-- [x] Remove Message(Set-Timer) 07.10.2019
+- [x] Remove Message (Set-Timer) 07.10.2019
 
 - [x] Save images with warning
 
 - [x] Anti-SimSwap
 
-- [x] Auto logout Timer 17.10.2019
+- [x] Auto Logout Timer 17.10.2019
 
 - [x] Quantum Computer Safe
 
@@ -48,9 +48,7 @@
 
 - [x] Google Emoji 25.10.2019 without API & RAW
 
-- [x] Zenta-Theme(BLACK) 28.10.2019
-
-- [ ] Sharing Hashed Link Identity
+- [ ] Sharing Hashed Id
 
 - [ ] ZentaMWAN 
 
@@ -74,13 +72,11 @@
 
 - [ ] Bitcoin & Ethereum
 
-- [ ] Bitcoin without information and Tor-Network
+- [ ] Bitcoin & Tor-Network
 
 - [ ] Send Bitcoin over the Zentamesh network(Offline)
 
 - [ ] File-Sharing Tor-Network (Onion-Share)
-
-- [ ] Scanning nearby Zentanode
 
 - [ ] Hashing Signature
 
@@ -100,7 +96,11 @@
 
 - [ ] Stop Over Tracking by other Apps(Instagram, Facebook, Amazon,..)
 
-#### Offline Range: 
+#### Zentanode:
+
+- [ ] Scanning nearby Zentanode
+
+#### Offline Range:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
 
@@ -144,7 +144,7 @@
 
 - [ ] Dark-Theme(Mod)
 
-- [ ] Deep Black-Theme(Mod)
+- [x] Deep Black-Theme(Mod)
 
 - [ ] White-Theme(Mod)
 
