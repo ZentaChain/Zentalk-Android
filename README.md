@@ -2,13 +2,13 @@
 
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 
-#### *"Zentalk Mobile will not first as a full open-source project thank you for your understanding we try to make most of our products as a* *open-opensource*
+#### *"Zentalk Mobile will not first as a fully open-source project. Thank you for your understanding we try to make most of our products as* *open-opensource*
 
 #### Timestamp development:
 
 - [x] Tor-Protocol is supported turn on and off easy 15.05.2019
 
-- [x] Panic-btn
+- [x] Panic-button
 
 - [x] Password recover: No
 
@@ -64,7 +64,7 @@
 
 - [ ] Stress Testing & MWAN Bandwidth
 
-- [ ] Zentamesh-network
+- [ ] Zentamesh-Network
 
 - [ ] QR-Code generate and user Scan
 
