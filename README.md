@@ -136,9 +136,15 @@
 
 - [ ] Russian
 
+- [ ] Chines
+
+- [ ] Korean
+
 #### Theme:
 
 - [ ] Dark-Theme(Mod)
+
+- [ ] Deep Black-Theme(Mod)
 
 - [ ] White-Theme(Mod)
 
