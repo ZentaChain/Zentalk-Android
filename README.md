@@ -18,7 +18,7 @@
 
 - [x] Anti-middle-men
 
-- [x] Blocke Screenshot
+- [x] Block Screenshot
 
 - [x] Hash: BLAKE2
 
@@ -54,7 +54,7 @@
 
 - [ ] Zentanode
 
-- [ ] Adding Images and files
+- [ ] Adding Images and Files
 
 - [ ] Dark-Theme(Mod)
 
@@ -136,7 +136,7 @@
 
 - [ ] Russian
 
-- [ ] Chines
+- [ ] Chinese
 
 - [ ] Korean
 
