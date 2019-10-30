@@ -84,6 +84,8 @@
 
 - [ ] Mobile Encrypted
 
+- [ ] PDF View
+
 - [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
 
 #### Zentawallet Payment:
@@ -162,9 +164,9 @@
 
 #### Theme:
 
-- [ ] Dark-Theme(Mod)
-
 - [x] Deep Black-Theme(Mod)
+
+- [ ] Dark-Theme(Mod)
 
 - [ ] White-Theme(Mod)
 
