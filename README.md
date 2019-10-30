@@ -20,11 +20,7 @@
 
 - [x] Block Screenshot
 
-- [x] Hash: BLAKE2
-
 - [x] User contact-list is encrypted and stored on own device 22.06.2019
-
-- [x] Zentalk-Gateway 07.08.2019
 
 - [x] Adding Contact at area distance 25.08.2019
 
@@ -35,12 +31,6 @@
 - [x] Anti-SimSwap
 
 - [x] Auto Logout Timer 17.10.2019
-
-- [x] Quantum Computer Safe
-
-- [x] Key Size AES-256 Bit (14-Rounds)
-
-- [x] Block Size 128 Bit
 
 - [x] Nickname
 
@@ -60,13 +50,9 @@
 
 - [ ] QR-Code Scan Zentanode Id
 
-- [ ] Diffie-Hellman Key Exchange
-
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Hashing Signature
-
-- [ ] Hybrid Encryption
 
 - [ ] Notification & Authorisation
 
@@ -85,6 +71,20 @@
 - [ ] PDF View
 
 - [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
+
+#### Zentalk Encryption & Hashing:
+
+- [x] Quantum Computer Safe
+
+- [ ] Diffie-Hellman Key Exchange
+
+- [x] Key Size AES-256 Bit (14-Rounds)
+
+- [x] Block Size 128 Bit
+
+- [ ] Hybrid Encryption
+
+- [x] Hash: BLAKE2
 
 #### Zentawallet Payment:
 
@@ -107,6 +107,8 @@
 - [ ] ZentaMWAN
 
 #### Zentagate:
+
+- [x] Zentalk-Gateway 07.08.2019
 
 - [ ] Search nearby Zentagateways
 
@@ -169,6 +171,8 @@
 - [ ] Dark-Theme(Mod)
 
 - [ ] White-Theme(Mod)
+
+- [ ] Multicolor-Theme(Mod)
 
 -------------
 
