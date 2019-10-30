@@ -54,10 +54,6 @@
 
 - [ ] Adding Images and Files
 
-- [ ] Dark-Theme(Mod)
-
-- [ ] White-Theme(Mod)
-
 - [ ] Group
 
 - [ ] Stress Testing & MWAN Bandwidth
