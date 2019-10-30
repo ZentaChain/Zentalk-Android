@@ -52,8 +52,6 @@
 
 - [ ] ZentaMWAN 
 
-- [ ] Zentanode
-
 - [ ] Adding Images and Files
 
 - [ ] Dark-Theme(Mod)
@@ -64,17 +62,11 @@
 
 - [ ] Stress Testing & MWAN Bandwidth
 
-- [ ] Zentamesh-Network
-
 - [ ] QR-Code generate and user Scan
 
+- [ ] QR-Code Scan Zentanode Id
+
 - [ ] Diffie-Hellman Key Exchange
-
-- [ ] Bitcoin & Ethereum
-
-- [ ] Bitcoin & Tor-Network
-
-- [ ] Send Bitcoin over the Zentamesh network(Offline)
 
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
@@ -86,6 +78,8 @@
 
 - [ ] Calls & Videocalls
 
+- [ ] Voice Message
+
 - [ ] Blog
 
 - [ ] Private Group
@@ -94,7 +88,19 @@
 
 - [ ] Mobile Encrypted
 
-- [ ] Stop Over Tracking by other Apps(Instagram, Facebook, Amazon,..)
+- [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
+
+#### Zentawallet Payment:
+
+- [ ] Bitcoin & Ethereum & Zenta
+
+- [ ] Send Bitcoin over the Zentameshnet (Offline)
+
+- [ ] Bitcoin over Tor-Network
+
+#### Zenta Blockchain:
+
+- [ ] Zenta Token
 
 #### Zentanode:
 
@@ -108,6 +114,8 @@
 
 - [ ] Handshake with Zentagates
 
+- [ ] Handshake security by AES encryption
+
 #### Offline Range:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
@@ -116,7 +124,15 @@
 
 - [x] Zentalk offline communication works 100 meters. 09.05.2019
 
-- [ ] Zentalk offline communication works 1000 meters
+- [ ] Zentalk offline communication works 1000 meters.
+
+- [ ] Zentalk offline communication works 5000 meters.
+
+- [ ] Zentalk offline communication works 15000 meters.
+
+- [ ] Zentalk offline communication works 25000 meters.
+
+- [ ] Zentalk offline communication works 35000 meters.
 
 #### Data transfer Online size:
 
