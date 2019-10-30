@@ -46,11 +46,9 @@
 
 - [x] System-Encryption
 
-- [x] Google Emoji 25.10.2019 without API & RAW
+- [x] Emoji 25.10.2019 without API & RAW
 
 - [ ] Sharing Hashed Id
-
-- [ ] ZentaMWAN 
 
 - [ ] Adding Images and Files
 
@@ -105,6 +103,8 @@
 - [ ] Scanning nearby Zentanode
 
 - [ ] Connect nearby Zentanode
+
+- [ ] ZentaMWAN
 
 #### Zentagate:
 
