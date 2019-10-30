@@ -100,6 +100,14 @@
 
 - [ ] Scanning nearby Zentanode
 
+- [ ] Connect nearby Zentanode
+
+#### Zentagate:
+
+- [ ] Search nearby Zentagateways
+
+- [ ] Handshake with Zentagates
+
 #### Offline Range:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
