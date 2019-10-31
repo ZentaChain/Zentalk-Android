@@ -38,6 +38,8 @@
 
 - [x] Emoji 25.10.2019 without API & RAW
 
+- [ ] PDF View
+
 - [ ] Sharing Hashed Id
 
 - [ ] Adding Images and Files
@@ -64,13 +66,13 @@
 
 - [ ] Private Group
 
-- [ ] Group
-
 - [ ] Mobile Encrypted
 
-- [ ] PDF View
-
 - [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
+
+#### Supported Files:
+
+- [ ] JPEG, PNG, PDF, GIF, MP4
 
 #### Zentalk Encryption & Hashing:
 
@@ -114,7 +116,7 @@
 
 - [ ] Handshake with Zentagates
 
-- [ ] Handshake security by AES encryption
+- [ ] Handshake AES encryption
 
 #### Offline Range:
 
@@ -138,9 +140,15 @@
 
 - [ ] 100 Mb
 
+- [ ] 450 Mb
+
 #### Data transfer Offline size:
 
 - [ ] 15 Mb
+
+- [ ] 50 Mb
+
+- [ ] 150 Mb
 
 #### Networks:
 
