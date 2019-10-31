@@ -18,8 +18,6 @@
 
 - [x] Anti-middle-men
 
-- [x] Block Screenshot
-
 - [x] User contact-list is encrypted and stored on own device 22.06.2019
 
 - [x] Adding Contact at area distance 25.08.2019
@@ -37,8 +35,6 @@
 - [x] System-Encryption
 
 - [x] Emoji 25.10.2019 without API & RAW
-
-- [ ] PDF View
 
 - [ ] Sharing Hashed Id
 
@@ -58,17 +54,23 @@
 
 - [ ] Notification & Authorisation
 
-- [ ] Calls & Videocalls
-
-- [ ] Voice Message
-
 - [ ] Blog
 
 - [ ] Private Group
 
 - [ ] Mobile Encrypted
 
-- [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
+- [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..
+
+#### Features:
+
+- [ ] Calls & Videocalls
+
+- [ ] Voice Message
+
+- [ ] PDF View
+
+- [x] Block Screenshot
 
 #### Supported Files:
 
