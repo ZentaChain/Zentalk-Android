@@ -18,21 +18,13 @@
 
 - [x] Save images with warning
 
-- [x] Anti-SimSwap
-
 - [x] Auto Logout Timer 17.10.2019
-
-- [x] Nickname
-
-- [x] System-Encryption
 
 - [x] Emoji 25.10.2019
 
 - [ ] Sharing Hashed Id
 
 - [ ] Adding Images and Files
-
-- [ ] Group
 
 - [ ] Stress Testing & MWAN Bandwidth
 
@@ -58,6 +50,8 @@
 
 - [ ] Calls & Videocalls
 
+- [ ] Group Chat
+
 - [ ] Voice Message
 
 - [ ] PDF View
@@ -68,15 +62,21 @@
 
 - [x] Password recover: No
 
+- [x] System-Encryption
+
 - [x] No-Server
 
 - [x] Non-Backup
 
 - [x] Anti-middle-men
 
+- [x] Nickname
+
+- [x] Anti-SimSwap
+
 #### Supported Files:
 
-- [ ] JPEG, PNG, PDF, GIF, MP4
+- [ ] JPEG, PNG, PDF, GIF, MP4, WAV 
 
 #### Zentalk Encryption & Hashing:
 
