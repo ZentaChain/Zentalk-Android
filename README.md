@@ -10,14 +10,6 @@
 
 - [x] Panic-button
 
-- [x] Password recover: No
-
-- [x] No-Server
-
-- [x] Non-Backup
-
-- [x] Anti-middle-men
-
 - [x] User contact-list is encrypted and stored on own device 22.06.2019
 
 - [x] Adding Contact at area distance 25.08.2019
@@ -34,7 +26,7 @@
 
 - [x] System-Encryption
 
-- [x] Emoji 25.10.2019 without API & RAW
+- [x] Emoji 25.10.2019
 
 - [ ] Sharing Hashed Id
 
@@ -71,6 +63,16 @@
 - [ ] PDF View
 
 - [x] Block Screenshot
+
+#### Zentalk protection:
+
+- [x] Password recover: No
+
+- [x] No-Server
+
+- [x] Non-Backup
+
+- [x] Anti-middle-men
 
 #### Supported Files:
 
