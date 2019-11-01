@@ -1,6 +1,6 @@
 <h1 align="center">Zentalk Decentralized Messenger Android</h1>
 
-![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
+![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
 #### *"Zentalk Mobile will not first as a fully open-source project. Thank you for your understanding we try to make most of our products as* *open-opensource"*
 
