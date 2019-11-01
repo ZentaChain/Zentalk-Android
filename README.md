@@ -194,6 +194,6 @@
 
 -------------
 
-##### This project is under active development, there may be breaking changes.
+<h3 align="center">This project is under active development, there may be breaking changes.</h3>
 
 <h3 align="center">Copyright all rights reserved Zentachain.io</h3>
