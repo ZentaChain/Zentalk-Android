@@ -1,4 +1,4 @@
-<h1 align="center">Zentalk Messenger Android dApp</h1>
+<h1 align="center">Zentalk Decentralized Messenger Android</h1>
 
 ![onion_zentalk_cyber](images/Welcome%20Zentalk.png)
 
