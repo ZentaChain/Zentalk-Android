@@ -162,6 +162,14 @@
 
 - [ ] Zikaron Network
 
+#### Penetration test:
+
+- [ ] Zentamesh Network
+
+- [ ] Wifi
+
+- [ ] Data Transfer
+
 #### Languages:
 
 - [x] English
