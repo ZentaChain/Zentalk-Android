@@ -76,7 +76,13 @@
 
 #### Supported Files:
 
-- [ ] JPEG, PNG, PDF, GIF, MP4, WAV 
+- [x] JPEG 
+- [x] PNG
+- [ ] PDF
+- [ ] GIF 
+- [ ] MP4 
+- [ ] WAV 
+- [ ] MP3
 
 #### Zentalk Encryption & Hashing:
 
@@ -111,6 +117,8 @@
 - [ ] Connect nearby Zentanode
 
 - [ ] ZentaMWAN
+
+- [ ] Reward with Zenta
 
 #### Zentagate:
 
