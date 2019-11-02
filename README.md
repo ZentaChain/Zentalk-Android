@@ -38,7 +38,7 @@
 
 - [ ] Notification & Authorisation
 
-- [ ] Blog
+- [ ] Blog/News
 
 - [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
 
