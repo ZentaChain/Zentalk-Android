@@ -40,11 +40,7 @@
 
 - [ ] Blog
 
-- [ ] Private Group
-
-- [ ] Mobile Encrypted
-
-- [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..
+- [ ] Stop Over Tracking an d Sprying by other Apps (Instagram, Facebook, Amazon,..)
 
 #### Features:
 
@@ -57,6 +53,10 @@
 - [ ] PDF View
 
 - [x] Block Screenshot
+
+- [ ] Private Group
+
+- [ ] Mobile Encrypted
 
 #### Zentalk protection:
 
@@ -121,6 +121,8 @@
 - [ ] Handshake with Zentagates
 
 - [ ] Handshake AES encryption
+
+- [ ] Handshake with Nearby Nodes
 
 #### Offline Range:
 
