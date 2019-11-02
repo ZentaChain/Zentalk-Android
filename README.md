@@ -22,7 +22,9 @@
 
 - [ ] Sharing Hashed Id
 
-- [ ] Adding Images and Files
+- [x] Adding Images 02.11.2019
+
+- [ ] Adding Files
 
 - [ ] Stress Testing & MWAN Bandwidth
 
