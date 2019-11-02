@@ -102,13 +102,15 @@
 
 - [ ] Bitcoin & Ethereum & Zenta
 
-- [ ] Send Bitcoin over the Zentameshnet (Offline)
+- [ ] Send Bitcoin & Zenta over the Zentameshnet (Offline)
 
-- [ ] Bitcoin over Tor-Network
+- [ ] Creat Offline Wallet / Store your PrivatKey Offline
+
+- [ ] Hiden IP-Adsress & Send it over Tor-Network
 
 #### Zenta Blockchain:
 
-- [ ] Zenta Token
+- [ ] Zenta
 
 #### Zentanode:
 
