@@ -72,6 +72,10 @@
 
 - [x] Anti-SimSwap
 
+- [ ] Hide App
+
+- [ ] Rename App
+
 #### Supported Files:
 
 - [x] JPEG 
