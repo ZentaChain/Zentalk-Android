@@ -1,6 +1,6 @@
 ![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
-#### "Zentalk Mobile will not firstly be a fully open-source project. Thank you for your understanding, we try to make the most of our products as open-opensource."
+Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inklusive the hashing function Blake2 and the Tor-network. 
 
 #### Timestamp development:
 
@@ -219,3 +219,5 @@
 <h3 align="center">This project is under active development, there may be breaking changes.</h3>
 
 <h3 align="center">Copyright all rights reserved Zentachain.io</h3>
+
+#### "Zentalk Mobile will not firstly be a fully open-source project. Thank you for your understanding, we try to make the most of our products as open-opensource."
