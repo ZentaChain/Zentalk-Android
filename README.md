@@ -26,9 +26,13 @@
 
 - [ ] Adding Files
 
-- [ ] QR-Code generate and user Scan
+- [ ] QR-Code Generate HashId
 
-- [ ] QR-Code Scan Zentanode Id
+- [ ] QR-Code Share HashId
+
+- [ ] QR-Code Scan HashId
+
+- [ ] QR-Code Scan ZentanodeId
 
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
