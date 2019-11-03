@@ -4,7 +4,7 @@
 
 #### Timestamp development:
 
-- [x] Tor-Protocol is supported turn on and off easy 15.05.2019
+- [x] Tor-Protocol 15.05.2019
 
 - [x] Panic-button
 
