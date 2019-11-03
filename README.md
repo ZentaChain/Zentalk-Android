@@ -1,6 +1,6 @@
 ![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
-#### "Zentalk Mobile will not first as a fully open-source project. Thank you for your understanding we try to make most of our products as open-opensource"
+#### "Zentalk Mobile will not firstly be a fully open-source project. Thank you for your understanding, we try to make the most of our products as open-opensource."
 
 #### Timestamp development:
 
