@@ -1,6 +1,6 @@
 ![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
-#### *"Zentalk Mobile will not first as a fully open-source project. Thank you for your understanding we try to make most of our products as* *open-opensource"*
+#### "Zentalk Mobile will not first as a fully open-source project. Thank you for your understanding we try to make most of our products as open-opensource"
 
 #### Timestamp development:
 
@@ -20,13 +20,11 @@
 
 - [x] Emoji 25.10.2019
 
-- [ ] Sharing Hashed Id
+- [ ] Sharing User HashedId Random
 
 - [x] Adding Images 02.11.2019
 
 - [ ] Adding Files
-
-- [ ] Stress Testing & MWAN Bandwidth
 
 - [ ] QR-Code generate and user Scan
 
@@ -181,6 +179,8 @@
 - [ ] Wifi
 
 - [ ] Data Transfer
+
+- [ ] Stress Testing & MWAN Bandwidth
 
 #### Languages:
 
