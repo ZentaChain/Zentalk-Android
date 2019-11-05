@@ -162,7 +162,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 #### Data transfer Online size:
 
-- [ ] 100 Mb
+- [x] 100 Mb
 
 - [ ] 450 Mb
 
@@ -191,6 +191,10 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 - [ ] Data Transfer
 
 - [ ] Stress Testing & MWAN Bandwidth
+
+- [ ] Crash Test
+
+- [ ] Range Offline Test
 
 #### Languages:
 
