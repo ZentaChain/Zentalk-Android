@@ -196,6 +196,10 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Range Offline Test
 
+#### Operating Frequencies:
+
+* [Zentameshnet](https://github.com/ZentaChain/Zentamesh)
+
 #### Languages:
 
 - [x] English
