@@ -82,6 +82,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Rename App
 
+- [ ] Change Icon
+
 #### Supported Files:
 
 - [x] JPEG 
