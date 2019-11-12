@@ -118,6 +118,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Hiden IP-Adsress & Send it over Tor-Network
 
+- [ ] Lightning Network
+
 #### Zenta Blockchain:
 
 - [ ] Zenta
