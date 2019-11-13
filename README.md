@@ -230,6 +230,10 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Multicolor-Theme(Mod)
 
+#### The Zentachain Whitepapers 1.2 2019/Q4
+
+* [Whtiepaper English]
+
 -------------
 
 <h3 align="center">This project is under active development, there may be breaking changes.</h3>
