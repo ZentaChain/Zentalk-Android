@@ -140,9 +140,9 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Search nearby Zentagateways
 
-- [ ] Handshake with Zentagates
+- [ ] Handshake with Zentagate
 
-- [ ] Handshake AES encryption
+- [ ] AES Encryption
 
 - [ ] Handshake with Nearby Nodes
 
