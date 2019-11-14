@@ -38,6 +38,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Hashing Signature
 
+- [ ] No Avatar
+
 - [ ] Notification & Authorisation
 
 - [ ] Blog/News
