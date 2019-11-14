@@ -12,7 +12,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [x] Adding Contact at area distance 25.08.2019
 
-- [x] Remove Message (Set-Timer) 07.10.2019
+- [x] Auto delete Messages (Set-Timer) 07.10.2019
 
 - [x] Save images with warning
 
@@ -37,8 +37,6 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 - [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Hashing Signature
-
-- [ ] No Avatar
 
 - [ ] Notification & Authorisation
 
@@ -90,6 +88,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Change Icon
 
+- [ ] No Avatar
+
 #### Supported Files:
 
 - [x] JPEG 
@@ -139,6 +139,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 - [ ] ZentaMWAN
 
 - [ ] Reward with Zenta
+
+- [ ] SHA-256
 
 #### Zentagate:
 
