@@ -48,6 +48,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Stop Over Tracking & Sprying by other Apps (Instagram, Facebook, Amazon,..)
 
+- [ ] Anti Google-Tracking
+
 #### Features:
 
 - [ ] Calls & Videocalls
