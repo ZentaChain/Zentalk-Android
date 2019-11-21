@@ -68,6 +68,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Mobile Encrypted
 
+- [ ] Anti-Device-Forensic
+
 #### Zentalk protection:
 
 - [x] Password recover: No
