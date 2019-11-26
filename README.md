@@ -208,7 +208,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Stress Testing & MWAN Bandwidth
 
-- [ ] Crash Test
+- [x] Crash Test
 
 - [ ] Range Offline Test
 
