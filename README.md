@@ -124,11 +124,13 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Send Bitcoin & Zenta over the Zentameshnet (Offline)
 
-- [ ] Creat Offline Wallet / Store your PrivatKey Offline
+- [ ] Creat Offline Wallet / Store your PrivatKey (Offline)
 
 - [ ] Hiden IP-Adsress & Send it over Tor-Network
 
 - [ ] Lightning Network
+
+- [ ] QR Code Keystore (Offline)
 
 #### Zenta Blockchain:
 
@@ -200,7 +202,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 #### Penetration test:
 
-- [ ] Zentamesh Network
+- [ ] Zentamesh Network 868Mhz
 
 - [ ] Zajin Network 902MHz
 
@@ -246,7 +248,9 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 #### The Zentachain Whitepapers 1.2 2019/Q4
 
-* [Whtiepaper English]
+* [Whtiepaper English Soon]
+
+* [Turkish English Soon]
 
 -------------
 
