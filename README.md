@@ -202,6 +202,10 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Zentamesh Network
 
+- [ ] Zajin Network 902MHz
+
+- [ ] Zikaron Network  922MHz
+
 - [ ] Wifi
 
 - [ ] Data Transfer
@@ -236,7 +240,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Dark-Theme(Mod)
 
-- [ ] White-Theme(Mod)
+- [x] White-Theme(Mod)
 
 - [ ] Multicolor-Theme(Mod)
 
