@@ -50,6 +50,8 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [ ] Anti Google-Tracking
 
+- [ ] Mesh-VPN 
+
 #### Features:
 
 - [ ] Calls & Videocalls
