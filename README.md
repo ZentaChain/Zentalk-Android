@@ -1,6 +1,6 @@
 ![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
-Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes and the hashing function Blake2. Zentalk covers IP-Addresses with the Tor-network.
+Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive hashing function Blake2 and the Tor-network.
 
 #### Timestamp development:
 
@@ -12,7 +12,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 - [x] Adding Contact at area distance 25.08.2019
 
-- [x] Auto delete Messages (Set-Timer) 07.10.2019
+- [x] Auto delete messages (Set-Timer) 07.10.2019
 
 - [x] Save images with warning
 
