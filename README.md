@@ -20,9 +20,11 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Emoji 25.10.2019
 
-- [ ] Sharing User HashedId Random
+- [x] Stop Over Tracking & Sprying by other Apps (Instagram, Facebook, Amazon,..)
 
 - [x] Adding Images 02.11.2019
+
+- [ ] Sharing User HashedId Random
 
 - [ ] Adding Files
 
@@ -46,25 +48,25 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Meshed Lightning
 
-- [x] Stop Over Tracking & Sprying by other Apps (Instagram, Facebook, Amazon,..)
-
 - [ ] Anti Google-Tracking
 
 - [ ] Mesh-VPN 
 
+- [ ] Identicon Avatars
+
 #### Features:
+
+- [x] Block Screenshot
+
+- [x] Group Chat
 
 - [ ] Calls & Videocalls
 
 - [ ] Multi Calls & Videocalls
 
-- [x] Group Chat
-
 - [ ] Voice Message
 
 - [ ] PDF View
-
-- [x] Block Screenshot
 
 - [ ] Private Group
 
@@ -94,8 +96,6 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Change Icon
 
-- [ ] No Avatar
-
 #### Supported Files:
 
 - [x] JPEG 
@@ -110,15 +110,15 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Quantum Computer Safe
 
-- [ ] Diffie-Hellman Key Exchange
-
 - [x] Key Size AES-256 Bit (14-Rounds)
 
 - [x] Block Size 128 Bit
 
+- [x] Hash: BLAKE2
+
 - [ ] Hybrid Encryption
 
-- [x] Hash: BLAKE2
+- [ ] El-Gamal Key Exchange
 
 #### Zentawallet Payment:
 
@@ -140,6 +140,8 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zentanode:
 
+- [x] SHA-256
+
 - [ ] Scanning nearby Zentanode
 
 - [ ] Connect nearby Zentanode
@@ -147,8 +149,6 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 - [ ] ZentaMWAN
 
 - [ ] Reward with Zenta
-
-- [x] SHA-256
 
 #### Zentagate:
 
@@ -204,19 +204,19 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Penetration test:
 
+- [x] Crash Test
+
+- [x] Wifi
+
 - [ ] Zentamesh Network 868Mhz
 
 - [ ] Zajin Network 902MHz
 
 - [ ] Zikaron Network  922MHz
 
-- [x] Wifi
-
 - [ ] Data Transfer
 
 - [ ] Stress Testing & MWAN Bandwidth
-
-- [x] Crash Test
 
 - [ ] Range Offline Test
 
@@ -242,9 +242,9 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Deep Black-Theme(Mod)
 
-- [ ] Dark-Theme(Mod)
-
 - [x] White-Theme(Mod)
+
+- [ ] Dark-Theme(Mod)
 
 - [ ] Multicolor-Theme(Mod)
 
