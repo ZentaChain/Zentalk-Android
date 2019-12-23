@@ -20,7 +20,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Emoji 25.10.2019
 
-- [x] Stop Over Tracking & Sprying by other Apps (Instagram, Facebook, Amazon,..)
+- [x] Stop Over Tracking & Spying by other Apps (Instagram, Facebook, Amazon,..)
 
 - [x] Adding Images 02.11.2019
 
