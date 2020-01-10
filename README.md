@@ -48,7 +48,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Meshed Lightning
 
-- [ ] Anti Google-Tracking
+- [x] Anti Google-Tracking
 
 - [ ] Mesh-VPN 
 
