@@ -252,7 +252,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zombi-Theme(Mod)
 
-#### The Zentachain Whitepapers 1.2 2019/Q4
+#### The Zentachain Whitepapers 1.2 2020/Q1
 
 * [Zentachain Whtiepaper English 1.2](https://github.com/ZentaChain/PDF-Documents/blob/master/Zentachain-Whitepaper.pdf)
 
