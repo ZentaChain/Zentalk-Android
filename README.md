@@ -124,9 +124,9 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Bitcoin & Ethereum & Zenta
 
-- [ ] Send Bitcoin & Zenta over the Zentameshnet (Offline)
+- [x] Send Bitcoin & Zenta over the Zentameshnet (Offline)
 
-- [ ] Creat Offline Wallet / Store your PrivatKey (Offline)
+- [x] Creat Offline Wallet / Store your PrivatKey (Offline)
 
 - [ ] Hiden IP-Adsress & Send it over Tor-Network
 
