@@ -194,6 +194,8 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] 150 Mb
 
+- [ ] Unlimited Size
+
 #### Networks:
 
 - [ ] Zentamesh Network 868MHz
@@ -204,7 +206,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] DeepSleep
 
-#### Penetration test:
+#### Penetration Test & Hacking:
 
 - [x] Crash Test
 
@@ -221,6 +223,8 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 - [ ] Stress Testing & MWAN Bandwidth
 
 - [ ] Range Offline Test
+
+- [ ] Hacking the diffrent networks
 
 #### Operating Frequencies:
 
