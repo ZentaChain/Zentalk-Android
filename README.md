@@ -26,7 +26,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Adding Images 02.11.2019
 
-- [ ] Sharing User HashedId Random
+- [x] Sharing User HashedId Random
 
 - [ ] Adding Files
 
