@@ -52,7 +52,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Anti Google-Tracking
 
-- [ ] Mesh-VPN 
+- [x] Mesh-VPN (VPN removed only Tor)
 
 - [ ] Identicon Avatars
 
@@ -72,7 +72,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Private Group
 
-- [ ] Mobile Encrypted
+- [x] Mobile Encrypted
 
 - [ ] Anti-Device-Forensic
 
@@ -214,7 +214,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Wifi
 
-- [ ] Zentamesh Network 868Mhz
+- [x] Zentamesh Network 868Mhz
 
 - [ ] Zajin Network 902MHz
 
