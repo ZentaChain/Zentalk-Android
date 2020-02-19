@@ -138,7 +138,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zenta Blockchain:
 
-- [ ] Zenta
+- [ ] Zenta PoS
 
 #### Zentanode:
 
