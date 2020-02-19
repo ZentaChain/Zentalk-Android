@@ -130,7 +130,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Create Offline Wallet / Store your PrivateKey (Offline)
 
-- [ ] Hide IP-Address & Send it via Tor-Network
+- [ ] Hide IP-Address & Send payment via Tor-Network
 
 - [ ] Lightning Network
 
@@ -172,7 +172,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Zentalk offline communication works 100 meters. 09.05.2019
 
-- [ ] Zentalk offline communication works 1000 meters.
+- [x] Zentalk offline communication works 1000 meters. 19.02.2020
 
 - [ ] Zentalk offline communication works 5000 meters.
 
@@ -190,7 +190,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Data transfer Offline size:
 
-- [ ] 15 Mb
+- [x] 10 Mb 19.02.2020 Video & Images
 
 - [ ] 50 Mb
 
