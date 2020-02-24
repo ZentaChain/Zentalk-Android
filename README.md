@@ -28,7 +28,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Sharing User HashedId Random
 
-- [ ] Adding Files
+- [x] Adding Files
 
 - [ ] QR-Code Generate HashId
 
@@ -188,7 +188,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Data transfer Offline size:
 
-- [x] 10 Mb 19.02.2020 Video & Images
+- [x] 10 Mb Video, Files, Images 19.02.2020
 
 - [ ] 50 Mb
 
