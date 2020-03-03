@@ -32,13 +32,11 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] QR-Code Generate HashId
 
-- [ ] QR-Code Share HashId
+- [x] QR-Code Share HashId
 
 - [ ] QR-Code Scan HashId
 
 - [ ] QR-Code Scan ZentanodeId
-
-- [ ] File-Sharing Tor-Network (Onion-Share)
 
 - [ ] Hashing Signature
 
@@ -104,7 +102,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 - [ ] GIF 
 - [ ] MP4 
 - [ ] WAV 
-- [ ] MP3
+- [ ] Audio
 
 #### Zentalk Encryption & Hashing:
 
@@ -128,7 +126,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Create Offline Wallet / Store your PrivateKey (Offline)
 
-- [ ] Hide IP-Address & Send payment via Tor-Network
+- [ ] Hide IP-Address & Send payment via using the Tor-Network
 
 - [ ] Lightning Network
 
@@ -142,9 +140,9 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] SHA-256
 
-- [x] Scanning nearby Zentanode
+- [x] Search nearby Zentanode
 
-- [ ] Connect nearby Zentanode
+- [ ] Connect to a nearby Zentanode
 
 - [ ] ZentaMWAN
 
@@ -156,7 +154,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Search nearby Zentagateways
 
-- [ ] Handshake with Zentagate
+- [x] Handshake with Zentagate
 
 - [ ] AES Encryption
 
