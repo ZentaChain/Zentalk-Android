@@ -50,7 +50,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Anti Google-Tracking
 
-- [ ] Identicon Avatars
+- [x] Identicon Avatars
 
 #### Features:
 
