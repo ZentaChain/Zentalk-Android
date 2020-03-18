@@ -30,7 +30,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Adding Files
 
-- [ ] QR-Code Generate HashId
+- [x] QR-Code Generate HashId
 
 - [x] QR-Code Share HashId
 
@@ -222,7 +222,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Range Offline Test
 
-- [ ] Hacking the diffrent networks
+- [ ] Pen test the networks
 
 #### Operating Frequencies:
 
@@ -254,7 +254,11 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zombi-Theme(Mod)
 
+#### Go to Zentameshnetwork:
+-----
+
 #### The Zentachain Whitepapers 1.2 2020/Q1
+
 
 * [Zentachain Whitepaper English 1.2](https://github.com/ZentaChain/PDF-Documents/blob/master/Zentachain-Whitepaper.pdf)
 
