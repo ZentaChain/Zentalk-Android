@@ -206,6 +206,10 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zikaron Network  922MHz
 
+##### For moore see:
+
+* [Zentameshnet](https://github.com/ZentaChain/Zentamesh)
+
 #### Penetration Test & Hacking:
 
 - [x] Crash Test
@@ -225,10 +229,6 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 - [ ] Range Offline Test
 
 - [ ] Pen test the networks
-
-#### Operating Frequencies:
-
-* [Zentameshnet](https://github.com/ZentaChain/Zentamesh)
 
 #### Languages:
 
