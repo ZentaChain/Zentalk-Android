@@ -94,6 +94,8 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Change Icon
 
+- [ ] GPS Blocker
+
 #### Supported Files:
 
 - [x] JPEG 
