@@ -206,8 +206,6 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zikaron Network  922MHz
 
-- [ ] DeepSleep
-
 #### Penetration Test & Hacking:
 
 - [x] Crash Test
