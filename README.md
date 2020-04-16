@@ -1,8 +1,8 @@
 ![onion_zentalk_cyber](images/Zentalk-Mobile.png)
 
-#### "Zentalk Beta Mobile will not firstly be a fully open-source project until a stabile version is published. Thank you for your understanding, we try to make the most of our products as open-source! DO NOT FORK THANK YOU."
+#### "Zentalk Mobile App Beta Version will not be a fully open-source project until a stable version is published. Thanks for your understanding, we try to make the most of our products as open-source! DO NOT FORK, THANK YOU."
 
-Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes, inclusive hashing function Blake2 and the Tor-network.
+Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger app. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes, inclusive hashing function Blake2 and the Tor-network.
 
 #### Timestamp & Features
 
@@ -10,7 +10,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Panic-button
 
-- [x] User contact-list is encrypted and stored on own device 22.06.2019
+- [x] User contact-list is encrypted and stored on user's own device 22.06.2019
 
 - [x] Adding Contact at area distance 25.08.2019
 
