@@ -132,7 +132,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Lightning Network
 
-- [ ] QR Code Keystore (Offline)
+- [x] QR Code Keystore (Offline)
 
 #### Zenta Blockchain:
 
