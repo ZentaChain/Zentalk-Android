@@ -128,7 +128,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Create Offline Wallet / Store your PrivateKey (Offline)
 
-- [ ] Hide IP-Address & Send payment via using the Tor-Network
+- [ ] Hide IP-Address & Send payment via Tor-Network
 
 - [ ] Lightning Network
 
