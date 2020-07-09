@@ -1,4 +1,7 @@
-![onion_zentalk_cyber](images/Zentalk-Mobile.png)
+
+<div>
+  <img src="images/Zentalk-Mobile.png" height="500" width="750"></img>
+</div>
 
 #### "Zentalk Mobile App Beta Version will not be fully open-source until a stable version is published. Thanks for your understanding, we try to make the most of our products as open-source! DO NOT FORK, THANK YOU."
 
