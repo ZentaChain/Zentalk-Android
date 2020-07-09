@@ -77,7 +77,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zentalk protection:
 
-- [x] Password recover: No
+- [x] No Password Recover
 
 - [x] System-Encryption
 
@@ -139,7 +139,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zenta Blockchain:
 
-- [ ] Zenta PoS
+- [ ] Zenta NPoS
 
 - [ ] ZUSD
 
