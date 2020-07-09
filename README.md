@@ -190,9 +190,9 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Data transfer Offline size:
 
-- [x] 10 Mb Video, Files, Images 19.02.2020
+- [x] 10 Mb 19.02.2020
 
-- [ ] 50 Mb
+- [x] 50 Mb 09.07.2020
 
 - [ ] 150 Mb
 
