@@ -13,7 +13,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Panic-button
 
-- [x] User contact-list is encrypted and stored on user's own device 22.06.2019
+- [x] User contact-list is encrypted on user's device 22.06.2019
 
 - [x] Adding Contact at area distance 25.08.2019
 
@@ -57,7 +57,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Features:
 
-- [x] Block Screenshot
+- [x] Screenshot Protection
 
 - [x] Group Chat
 
@@ -67,7 +67,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Voice Message
 
-- [ ] PDF View
+- [ ] Support PDF files
 
 - [x] Private Group 24.03.2020
 
@@ -125,13 +125,13 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zentawallet Payment:
 
-- [ ] Bitcoin & Ethereum & Zenta
+- [ ] Bitcoin & Zenta
 
-- [x] Send Bitcoin & Zenta over the Zentameshnet (Offline)
+- [x] Send Bitcoin & Zenta over Zentameshnetwork (Offline)
 
 - [x] Create Offline Wallet / Store your PrivateKey (Offline)
 
-- [ ] Hide IP-Address & Send payment via Tor-Network
+- [ ] Hide IP-Address & Send payment using via Tor-Network
 
 - [ ] Lightning Network
 
@@ -149,7 +149,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Search nearby Zentanode
 
-- [ ] Connect to a nearby Zentanode
+- [ ] Connect to auto nearby Zentanodes
 
 - [ ] ZentaMWAN
 
@@ -199,11 +199,13 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] 150 Mb
 
+- [ ] 450 Mb
+
 - [ ] Unlimited Size
 
 #### Networks:
 
-- [ ] Zentamesh Network 868MHz
+- [x] Zentamesh Network 868MHz
 
 - [ ] Zajin Network 902MHz
 
@@ -273,4 +275,4 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 <h3 align="center">This project is under active development, there may be breaking changes.</h3>
 
-<h3 align="center">All copyright rights reserved Zentachain.io</h3>
+<h3 align="center">All copyright rights reserved by Zentachain.io</h3>
