@@ -45,11 +45,11 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Notification & Authorisation
 
-- [ ] Blog/News
+- [x] Blog/News
 
 - [ ] Decentraized database Wallet
 
-- [ ] Meshed Lightning
+- [ ] Lightning-meshnetwork
 
 - [x] Anti Google-Tracking
 
@@ -95,7 +95,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Rename App
 
-- [ ] Change Icon
+- [ ] Change Favicon
 
 - [x] GPS Blocker
 
