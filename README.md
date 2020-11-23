@@ -241,7 +241,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] German
 
-- [ ] Turkish
+- [x] Turkish
 
 - [ ] Russian
 
