@@ -149,7 +149,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Search nearby Zentanode
 
-- [ ] Connect to auto nearby Zentanodes
+- [x] Connect to auto nearby Zentanodes
 
 - [ ] ZentaMWAN
 
