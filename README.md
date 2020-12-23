@@ -159,7 +159,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Zentalk-Gateway 07.08.2019
 
-- [ ] Search nearby Zentagateways
+- [x] Search nearby Zentagateways
 
 - [x] Handshake with Zentagate
 
