@@ -65,7 +65,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Multi Calls & Videocalls
 
-- [ ] Voice Message
+- [x] Voice Message
 
 - [ ] Support PDF files
 
