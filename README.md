@@ -125,7 +125,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 #### Zentawallet Payment:
 
-- [ ] Bitcoin & Zenta
+- [ ] Bitcoin & Zenta & Kusama & Polkadot
 
 - [x] Send Bitcoin & Zenta over Zentameshnetwork (Offline)
 
