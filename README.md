@@ -3,11 +3,10 @@
   <img src="images/Zentalk-Mobile.png" height="500" width="750"></img>
 </div>
 
-#### "Zentalk Mobile App Beta Version will not be fully open-source until a stable version is published. Thanks for your understanding, we try to make the most of our products as open-source!Please DO NOT FORK, THANK YOU."
-
+# Zentalk Android
 Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger app. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and the receiver using Zentanodes, inclusive hashing function Blake2 and the Tor-network.
 
-#### Timestamp & Features
+### Timestamp and Features:
 
 - [x] Tor-Protocol 15.05.2019
 
@@ -55,7 +54,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Identicon Avatars
 
-#### Features:
+### Features:
 
 - [x] Screenshot Protection
 
@@ -75,7 +74,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] Anti-Device-Forensic 25.01.2021
 
-#### Zentalk protection:
+### Zentalk protection:
 
 - [x] No Password Recover
 
@@ -99,7 +98,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] GPS Blocker
 
-#### Supported Files:
+### Supported Files:
 
 - [x] JPEG 
 - [x] PNG
@@ -109,7 +108,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 - [ ] WAV 
 - [ ] Audio
 
-#### Zentalk Encryption & Hashing:
+### Zentalk Encryption & Hashing:
 
 - [x] Quantum Computer Safe
 
@@ -123,7 +122,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] El-Gamal Key Exchange
 
-#### Zentawallet Payment:
+### Zentawallet Payment:
 
 - [ ] Bitcoin & Zenta & Kusama & Polkadot
 
@@ -137,7 +136,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [x] QR Code Keystore (Offline)
 
-#### Zentanode:
+### Zentanode:
 
 - [x] BLAKE2
 
@@ -149,7 +148,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Reward with Zenta
 
-#### Zentagate:
+### Zentagate:
 
 - [x] Zentalk-Gateway 07.08.2019
 
@@ -161,7 +160,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Handshake with Nearby Nodes
 
-#### Offline Range:
+### Offline Range:
 
 - [x] Zentalk offline communication works 20 meters. 15.04.2019
 
@@ -179,7 +178,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zentalk offline communication works 35000 meters.
 
-#### Data transfer Online size:
+### Data transfer Online size:
 
 - [x] 100 Mb
 
@@ -197,7 +196,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Unlimited Size
 
-#### Networks:
+### Networks:
 
 - [x] Zentamesh Network 868MHz
 
@@ -205,11 +204,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zikaron Network  922MHz
 
-##### For moore see:
-
-* [Zentameshnet](https://github.com/ZentaChain/Zentamesh)
-
-#### Penetration Test & Hacking:
+### Penetration Test & Hacking:
 
 - [x] Crash Test
 
@@ -229,7 +224,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Pen test the networks
 
-#### Languages:
+### Languages:
 
 - [x] English
 
@@ -243,7 +238,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Korean
 
-#### Theme:
+### Theme:
 
 - [x] Deep Black-Theme(Mod)
 
@@ -255,11 +250,12 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 - [ ] Zombi-Theme(Mod)
 
-#### Go to Zentameshnetwork:
+### Go to Zentameshnetwork:
 
 ---
 
+Zentalk Mobile App Beta Version will not be fully open-source until a stable version is published. Thanks for your understanding, we try to make the most of our products as open-source. This project is under active development, there may be breaking changes.
 
-<h3 align="center">This project is under active development, there may be breaking changes.</h3>
+### License
 
-<h3 align="center">All copyright rights reserved by Zentachain.io</h3>
+All copyright rights reserved by Zentachain.io
