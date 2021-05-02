@@ -12,7 +12,7 @@ Zentalk Mobile App Beta Version will not be fully open-source until a stable ver
 For more details. Please visit:
 
 
-[Zentalk Android] (https://app.gitbook.com/@zentachain/s/zentachain-documentation/zentalk/introduction-1)
+[Zentalk Android](https://app.gitbook.com/@zentachain/s/zentachain-documentation/zentalk/introduction-1)
 
 ### Copyright
 
