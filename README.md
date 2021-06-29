@@ -9,7 +9,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 Zentalk Mobile App Beta Version will not be fully open-source until the stable version is published. Thanks for your understanding, we try to make the most of our products open-source. This project is under active development, there may be breaking changes.
 
-For more details. Please visit:
+For more details:
 
 
 [Zentalk Android](https://app.gitbook.com/@zentachain/s/zentachain-documentation/zentalk/introduction-1)
