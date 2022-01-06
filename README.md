@@ -1,14 +1,13 @@
 # Zentalk Android
 
-Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer messenger.
+Zentalk is an ultra-secure, hybrid encrypted decentralized peer-to-peer (P2P) messenger application without cloud storage.
 
 For more details:
 [Zentalk](https://app.gitbook.com/@zentachain/s/zentachain-documentation/zentalk/introduction-1)
 
 ## Status
 
-This project is under active development, there may be breaking changes.
-Zentalk Mobile App Beta Version will not be fully open-source until the stable version is published.
+There may be breaking changes in this project as it is under active development. Until the stable version of Zentalk Mobile is published, the beta version will not be released open-source.
 
 ## Copyright
 
